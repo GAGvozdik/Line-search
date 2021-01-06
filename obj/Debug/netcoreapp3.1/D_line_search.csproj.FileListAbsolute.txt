@@ -1,0 +1,13 @@
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.csprojAssemblyReference.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.AssemblyInfoInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.AssemblyInfo.cs
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.csproj.CoreCompileInputs.cache
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\bin\Debug\netcoreapp3.1\D_line_search.exe
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\bin\Debug\netcoreapp3.1\D_line_search.deps.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\bin\Debug\netcoreapp3.1\D_line_search.runtimeconfig.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\bin\Debug\netcoreapp3.1\D_line_search.runtimeconfig.dev.json
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\bin\Debug\netcoreapp3.1\D_line_search.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\bin\Debug\netcoreapp3.1\D_line_search.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.dll
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.pdb
+C:\Users\fenik\Desktop\завьялов лекции шарпы\проги\D_13_line_search\D_line_search\obj\Debug\netcoreapp3.1\D_line_search.genruntimeconfig.cache
